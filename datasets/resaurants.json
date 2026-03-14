@@ -1,0 +1,25 @@
+
+[
+  {
+    "name": "Bukhara",
+    "location": "ITC Maurya, Chanakyapuri",
+    "locality": "Chanakyapuri",
+    "city": "New Delhi",
+    "cuisine": ["North Indian", "Mughlai"],
+    "rating": 4.8,
+    "cost": 5000,
+    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "googleMapsLink": "https://maps.google.com/?q=Bukhara+ITC+Maurya+New+Delhi"
+  },
+  {
+    "name": "Karavalli",
+    "location": "Vivanta Bengaluru, Residency Road",
+    "locality": "Residency Road",
+    "city": "Bengaluru",
+    "cuisine": ["South Indian", "Seafood"],
+    "rating": 4.7,
+    "cost": 3000,
+    "imageUrl": "https://images.unsplash.com/photo-1552566626-52f8b828add9",
+    "googleMapsLink": "https://maps.google.com/?q=Karavalli+Bengaluru"
+  }
+]

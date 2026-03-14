@@ -1,0 +1,35 @@
+
+[
+  {
+    "name": "Taj Mahal",
+    "type": "Mausoleum",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "establishmentYear": "1653",
+    "timeNeeded": "2-3 hours",
+    "reviewRating": 4.9,
+    "entranceFee": "50 INR (Indians), 1100 INR (Foreigners)",
+    "nearbyAirport": "Agra Airport",
+    "weeklyOff": "Friday",
+    "significance": "UNESCO World Heritage Site",
+    "bestTimeToVisit": "October to March",
+    "imageUrl": "https://images.unsplash.com/photo-1564507592224-2fc8d5ceea47",
+    "googleMapsLink": "https://maps.google.com/?q=Taj+Mahal+Agra"
+  },
+  {
+    "name": "Gateway of India",
+    "type": "Monument",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "establishmentYear": "1924",
+    "timeNeeded": "1 hour",
+    "reviewRating": 4.6,
+    "entranceFee": "Free",
+    "nearbyAirport": "Chhatrapati Shivaji Maharaj International Airport",
+    "weeklyOff": "None",
+    "significance": "Historical landmark",
+    "bestTimeToVisit": "November to February",
+    "imageUrl": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f",
+    "googleMapsLink": "https://maps.google.com/?q=Gateway+of+India+Mumbai"
+  }
+]
